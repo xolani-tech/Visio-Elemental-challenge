@@ -7,7 +7,9 @@ This project is a submission for a hiring challenge in which candidates were ask
 The goal was to demonstrate front-end development skills, attention to detail, and design accuracy.
 
 ## Live Demo 🌐
-[Elemental Challenge]
+[![Screenshot 2025-04-25 152315](https://github.com/user-attachments/assets/df06c977-4177-4e77-b71d-ff5f68c5a131)
+](https://visio-elemental-challenge-iota.vercel.app/)
+
 
 ## Features
 -- Frontended design
